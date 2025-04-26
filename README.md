@@ -1,2 +1,3 @@
-# LagShift-Latest-versions
-Latest versions of LagShift APP.
+0.0.4
+
+Floating ball and improved VPN included.
